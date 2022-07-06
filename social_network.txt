@@ -1,0 +1,16 @@
+
+#users
+Akki : Saik ,Aryan,Srik
+Junnu : aki,bunny
+Surya : Akki,Srik,Saik
+Srik: suri ,Akki,Saik
+Saik: Akki,Srik,Junnu,Surya,aki,bunny,pinky,suri,harini
+Suri: Akki,Devi,Aryan,Srik
+Aryan: Saik,Surya,Srik,Likitha,Akki
+Niharika: Akki,Srik
+Devi: Srik,Suri,Saik,Aryan
+
+#groups
+Besties: Akki,Saik,Surya,Aryan,Devi
+Prasthanam : Saik,Srik,Suri,Akki
+Kgp: Akki,Devi,Aryan,Srik,Niharika,Suri,Saik,Surya
